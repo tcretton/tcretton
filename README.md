@@ -1,7 +1,7 @@
 ### Hi ! 👋
-**- 🔭 I’m currently working on moodle**
+**- 🔭 I’m currently working with php on moodle**
 
-**- 🌱 I’m currently learning...**
+**- 🌱 I’m currently learning...react**
 
 <!--
 **tcretton/tcretton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
