@@ -1,5 +1,5 @@
 ### Hi ! 👋
-**- 🔭 I’m currently working with php on moodle**
+**- 🔭 I’m currently working with on moodle**
 
 **- 🌱 I’m currently learning...react**
 
