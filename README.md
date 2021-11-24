@@ -1,5 +1,4 @@
-## Hi ! 👋
-## I'm Tércio Cretton
+## Hi ! 👋 I'm Tércio Cretton
 **- 🔭 I’m currently working with on moodle**
 
 **- 🌱 I’m currently learning...react**
