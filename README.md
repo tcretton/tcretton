@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tcretton&&style=flat-square" align="center" />
-</div>
 
 ## Hi ! 👋 I'm Tércio Cretton
 **- 🔭 I’m currently working with on moodle**
@@ -33,25 +30,9 @@
 </a>  
 </div>  
 
-<br/>  
 
-
-## Github Stats  
+ 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tcretton&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
   
 
 <!--
