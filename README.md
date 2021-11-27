@@ -1,6 +1,7 @@
 
 ## Hi ! 👋 I'm Tércio Cretton
 **- 🔭 I’m currently working with on moodle**
+
 **- 🌱 I’m currently learning...react**
 
 ### Languages and Tools  
@@ -17,8 +18,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
 </div>  
-
- 
+</br> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tcretton&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center">
 <a href="https://github.com/tcretton" target="_blank">
