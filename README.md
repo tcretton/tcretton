@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tcretton&&style=flat-square" align="center" />
+</div>
+
 ## Hi ! 👋 I'm Tércio Cretton
 **- 🔭 I’m currently working with on moodle**
 
@@ -47,18 +51,8 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **tcretton/tcretton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
