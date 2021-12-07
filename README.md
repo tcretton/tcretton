@@ -33,12 +33,10 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcretton&hide_border=true&layout=compact" align="center" style="width: 50%" />
-
-
-<br/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcretton&hide_border=true&layout=compact" align="center" style="width: 50%" />
+  <br/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" style="width: 50%" />
 </div>
 
 
