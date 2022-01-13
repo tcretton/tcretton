@@ -1,8 +1,7 @@
 
 ## Hi ! 👋 I'm Tércio Cretton
-**- 🔭 I’m currently working with moodle**
-
-**- 🌱 I’m currently learning...react**
+**- 🔭 Working with moodle**
+**- 🌱 Learning...react**
 
 ### Frontend  
 <div align="center">  
