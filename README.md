@@ -1,12 +1,8 @@
 
 ## Hi ! 👋 I'm Tércio Cretton
-**- 🔭 Working with php**
+**- 🔭 Working with php** & moodle**
 
-**- 🔭 Working with moodle**
-
-**- 🌱 Learning...react**
-
-**- 🌱 Learning...Laravel**
+**- 🌱 Learning...react** & Laravel**
 
 ### Skills  
 <div align="center">  
