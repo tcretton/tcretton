@@ -27,15 +27,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 </div>
 </td>
-<br/>  
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tcretton&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 45" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcretton&hide_border=true&layout=compact" align="center" style="width: 45%" />
-</div>
-
-
+<br/> 
 <!--
 **tcretton/tcretton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
